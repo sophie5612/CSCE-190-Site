@@ -12,10 +12,16 @@ font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 .assignment img {
     width : 200px;
-    padding : 10px;
+    border: 2px solid black;
+    margin-right: 20px;
 }
 
 h1 {
 color : white;
 text-align : center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
